@@ -44,6 +44,6 @@ dependencies {
     //module dependencies
     implementation(projects.auth.domain)
     implementation(projects.core.domain)
-    implementation(projects.core.presentation)
+    implementation(projects.core.presentation.designsystem)
 
 }
